@@ -1,8 +1,8 @@
-V1.0.3
+V1.0.4
 https://ravatadevices.github.io/CellSorterHMIUpdater.exe
 
 
 [Update]
-Version=V1.0.3
+Version=V1.0.4
 URL=https://ravatadevices.github.io/CellSorterHMIUpdater.exe
 
