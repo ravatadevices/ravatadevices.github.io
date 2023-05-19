@@ -1,8 +1,3 @@
-V1.0.20
-https://storage.googleapis.com/ravata-update/gui_release_stable/CellSorterHMIUpdater.exe
-
-
 [Update]
-Version=V1.0.20
+Version=v1.1.5
 URL=https://storage.googleapis.com/ravata-update/gui_release_stable/CellSorterHMIUpdater.exe
-
